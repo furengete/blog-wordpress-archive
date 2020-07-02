@@ -3,6 +3,8 @@ title: "长期数据备份"
 date: "2020-04-12"
 ---
 
+# 长期数据备份
+
 目前所有数据尚未备份，而现有容量已满，不得不添置硬盘。
 
 遂购入 2块 HGST HUS728T8TALE6L4 (Western Digital Ultrastar DC HC320) 硬盘用于备份已有数据 消费共计 ¥ 2300
